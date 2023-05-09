@@ -1,0 +1,44 @@
+.header {
+    padding: 25px;
+    width: 70%
+}
+#year-filter {
+    width: 100px;
+}
+.year-selector {
+    position: absolute;
+    right: 10%;
+}
+.head-text {
+    position: relative;
+    left: 10%;
+    }
+.pop-nr {
+    position: absolute;
+    right: 20%;
+    padding: 30px;
+}
+.box {
+    background-color: #F0F8FF;
+    width=100%;
+    position: relative;
+}
+.map_chart {
+    margin: 5%;
+}
+.pie_chart {
+    margin: auto 5% auto 5%;
+    position: absolute;
+    top: 20%;
+    height: 300px;
+    right: 7%
+}
+.line-box {
+    margin: 5%;
+    position: absolute;
+    top: 50%;
+    width: 700px;
+}
+.row1 {
+    width: 70%;
+}
